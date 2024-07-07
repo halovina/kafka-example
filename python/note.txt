@@ -1,0 +1,3 @@
+pip install confluent-kafka
+
+https://docs.confluent.io/kafka-clients/python/current/overview.html#python-code-examples
