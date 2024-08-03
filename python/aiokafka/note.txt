@@ -1,0 +1,3 @@
+pip install aiokafka
+
+https://aiokafka.readthedocs.io/en/stable/
